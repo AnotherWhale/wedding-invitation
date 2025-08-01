@@ -1,0 +1,20 @@
+{
+  "inda": {
+    "name": "Inda Rachmawati",
+    "akad": true,
+    "reception": true,
+    "maxPax": 2
+  },
+  "budi": {
+    "name": "Budi Santoso",
+    "akad": true,
+    "reception": false,
+    "maxPax": 1
+  },
+  "keluarga-sumarno": {
+    "name": "Keluarga Bpk. Sumarno",
+    "akad": false,
+    "reception": true,
+    "maxPax": 3
+  }
+}
